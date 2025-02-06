@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+sqlalchemy
+langchain
+langgraph
+langchain-groq
+langchain-community
+mysql-connector-python
+python-dotenv
