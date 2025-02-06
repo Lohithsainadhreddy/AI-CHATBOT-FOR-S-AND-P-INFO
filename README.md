@@ -6,6 +6,7 @@ AI-powered chatbot for supplier and product information enables natural language
 
 ### Running the Project
 
+
 #### Frontend
 1. Install dependencies:
     ```bash
